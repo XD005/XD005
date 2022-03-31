@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @XD005
 - 👀 I’m interested in ... Honestly, anything tech related
 - 🌱 I’m currently learning ... C++ and Unreal Engine 4/5
-- 💞️ I’m looking to collaborate on ... 
+- 💞️ I’m looking to collaborate on ... Rhythm Inferno (music game I am working on) 
 - 📫 How to reach me ... DM me
 
 <!---
